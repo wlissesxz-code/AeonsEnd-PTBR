@@ -1,0 +1,95 @@
+{
+  "version": "0.3.1-beta",
+  "steam_build_id": "21251852",
+  "files": [
+    {
+      "path": "AeonsEnd_Data\\data.unity3d",
+      "original_sha256": "4d196014708d6b3931c09f66fc1c01d6d6a81ee10bbacac8a60a56b264b68d2d",
+      "translated_sha256": "030b492071c63645fecff08023ce7a4819f01a0ee2cda588c50e679e9aded054",
+      "previous_sha256": [
+        "f17160a53270368fe5b82db6610374bc1c4d147baa8f1169e4845c0a488b4afd",
+        "8a7db876ec73a3921d01de09bedcdd3a35465fa6b3ca5078539adfcc285b0316",
+        "8d216af1a5018300619abb17855bbcd49bf718a3437912bb2ad9249db730cd05"
+      ],
+      "size": 104297905,
+      "patch": "patches\\data.unity3d.aedelta",
+      "transform": "UnityFSPayload",
+      "payload_sha256": "de4fdea4c55e77c242530e9c03b6d38d70144cec4bc327fb14a5ec36d0f3e130"
+    },
+    {
+      "path": "AeonsEnd_Data\\Managed\\AeonsEndEngine.dll",
+      "original_sha256": "c69d0d6d65cc898186bcdd5eaeb38b82d9991e6043e95fa75e9a45a749d55f81",
+      "translated_sha256": "74964e486f96f3ffb25ffe872c657e1434f3da52c9c0908e653a65f2884f7c2b",
+      "previous_sha256": [
+        "aa8989411926bd485a726b333c491664926502add8d42d6152f69bd54a4e6b20",
+        "cb07084376c7ce34cb83dbc1f6e94b7223c833813bebb987f8fddda22fe10aee",
+        "74964e486f96f3ffb25ffe872c657e1434f3da52c9c0908e653a65f2884f7c2b"
+      ],
+      "size": 1391616,
+      "patch": "patches\\AeonsEndEngine.dll.aedelta",
+      "transform": "Raw"
+    },
+    {
+      "path": "AeonsEnd_Data\\Managed\\Assembly-CSharp.dll",
+      "original_sha256": "4f8969dce538b28dfa24b274428a78552dd5c99bfad237b336fc03f07fa6b1b2",
+      "translated_sha256": "f2ed8691637c116ab0673901cf78675b4f998fc72a1545f6abfa3b627bd88bb8",
+      "previous_sha256": [
+        "e48af3bb198066bf0607458df1a0641c9b49a06692cbbd863bebccc1bdccd399",
+        "a88d9ef4241455fed638b04088bf96f8319671cb9a89a3d874c12462f952ff83",
+        "da0e9c1d03c46c345daa3ef3177c915b50c08ba8fc71d60296fb634776851a74",
+        "f2ed8691637c116ab0673901cf78675b4f998fc72a1545f6abfa3b627bd88bb8"
+      ],
+      "size": 1625600,
+      "patch": "patches\\Assembly-CSharp.dll.aedelta",
+      "transform": "Raw"
+    },
+    {
+      "path": "AeonsEnd_Data\\Managed\\PortugueseSupport.dll",
+      "original_sha256": null,
+      "translated_sha256": "48e5df6f62fc32300704f1108160e792cd5c1dbef131f7ff511f3ec19c76422a",
+      "previous_sha256": [
+        "e2cb125601e4e7ffcf50196f9062a397661a9c3c75443de49f73080780b3d559",
+        "48e5df6f62fc32300704f1108160e792cd5c1dbef131f7ff511f3ec19c76422a"
+      ],
+      "size": 15360
+    },
+    {
+      "path": "AeonsEnd_Data\\Managed\\Unity.TextMeshPro.dll",
+      "original_sha256": "c00ef5991d7e3f863f642b93ff8b39ffb90a0c892ae5fafde9f5eca60745937f",
+      "translated_sha256": "ef67ed1f396f913cb5b0ceee51ed020bb79ffa13469c15ff34ac4636957b7b51",
+      "previous_sha256": [
+        "7165a9699b9767f61ae3cc8aa2a6b47bb669047821243e912583c2ba5bc4f388",
+        "ef67ed1f396f913cb5b0ceee51ed020bb79ffa13469c15ff34ac4636957b7b51"
+      ],
+      "size": 379392,
+      "patch": "patches\\Unity.TextMeshPro.dll.aedelta",
+      "transform": "Raw"
+    }
+  ],
+  "assets": [
+    {
+      "path": "patches\\data.unity3d.aedelta",
+      "sha256": "f56aff598043cc96cbd129f772dc5c248518d3ae70de00e5d6fdbfdc0c40660b"
+    },
+    {
+      "path": "patches\\AeonsEndEngine.dll.aedelta",
+      "sha256": "dff4cd3c64767c2b4864814da8b73929867cc5e1e0b19f4017f1757eab7e3a23"
+    },
+    {
+      "path": "patches\\Assembly-CSharp.dll.aedelta",
+      "sha256": "1dec406cba20759dad7f905c21dc118e3725cc04089f52c59b28f3aa7748c491"
+    },
+    {
+      "path": "patches\\Unity.TextMeshPro.dll.aedelta",
+      "sha256": "7dde898cd23dc3360e13db08ef68982bf681a6ad536b1a3cc5aa7102739a536b"
+    },
+    {
+      "path": "AeonsEndPatch.dll",
+      "sha256": "1b3ac1846bc1213bb68872c0a9ba02223953b9ae5352df0054e229a8e4b6bccb"
+    },
+    {
+      "path": "PortugueseSupport.dll",
+      "sha256": "48e5df6f62fc32300704f1108160e792cd5c1dbef131f7ff511f3ec19c76422a"
+    }
+  ]
+}
